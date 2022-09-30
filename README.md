@@ -10,4 +10,5 @@ Note that you need to use a desktop build because in most browsers, websites are
 ## Python Library
 
 To make it easier, you can use a Python-Library that automatically connects to the TCP-Server and allows for easy control over the game.
-The library is a single python file, which you can find [here](https://github.com/zenonet/BubblePhysics-Education/blob/main/BubblePhysics.py).
+The library is a single python file, which you can find [here](https://github.com/zenonet/BubblePhysics-Education/blob/main/BubblePhysics.py).<br>
+It isn't on pip right now, so just copy the file to the folder where you have your so
