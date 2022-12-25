@@ -7,6 +7,8 @@ BubblePhysics-Education is a feature in the sandbox-game [BubblePhysics](https:/
 The TCP-Functionality is built into BubblePhysics itself so you just need to download/install BubblePhysics from [itch.io](https://zenonet.itch.io/bubblephysics/download/oyaAxQJGwXlQ__hdlvmyrp7lCZ6xlvOxQGmtpaO2)<br>
 Note that you need to use a desktop build because in most browsers, websites aren't able to create TCP-Servers.
 
+If you want to download the library automatically or using `curl`, here is the direct link to the file: https://raw.githubusercontent.com/zenonet/BubblePhysics-Education/main/BubblePhysics.py
+
 ## Python Library
 
 To make it easier, you can use a Python-Library that automatically connects to the TCP-Server and allows for easy control over the game.
