@@ -1,6 +1,7 @@
 # BubblePhysics-Education
 
-BubblePhysics-Education is a feature in the sandbox-game [BubblePhysics](https://zenonet.itch.io/bubblephysics) which allows you to control the player autonomously using a TCP-Connection.
+BubblePhysics-Education is a feature in the sandbox-game [BubblePhysics](https://zenonet.itch.io/bubblephysics) which allows you to control the player autonomously using a TCP-Connection.<br>
+The game side is part of any version of bubble physics >= 0.8. The feature is available on Linux, Windows and Android.
 
 ## Installation
 
